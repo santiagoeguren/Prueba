@@ -3,9 +3,7 @@
 
 x=c(1,12)
 
-
-hist(x)
-
+3+3
 
 #Correr en linux
   
